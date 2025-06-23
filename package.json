@@ -1,0 +1,9 @@
+{
+  "name": "com.lapcat.commontools",
+  "description": "common tools package",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "displayName": "LC Common Tools",
+  "dependencies": {
+  }
+}
